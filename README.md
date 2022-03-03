@@ -2,7 +2,7 @@
 Backstage Installation
 
 ## Requirements
-- yarn
+- yarn >=1.22.17
 - node >=14.17.0
 
 ## Command line
