@@ -5,6 +5,16 @@ Backstage Installation
 - yarn >=1.22.17
 - node >=14.17.0
 
+## Tech stack
+- React
+- React Testing Library
+- Typescript
+- Javascript
+- Express
+- Cypress
+- Lerna
+- Docker
+
 ## CLI
 ### Install standalone application locally
 `npx @backstage/create-app`
@@ -18,5 +28,3 @@ Run from inside app directory: `yarn dev`
 
 <img width="1517" alt="image" src="https://user-images.githubusercontent.com/12075020/156490761-d6cf4b75-eb24-46ad-8290-af40d088bd2b.png">
 
-### Project structure
-![image](https://user-images.githubusercontent.com/12075020/156492159-cafc6136-44bd-420d-beac-a9f661da345d.png)
